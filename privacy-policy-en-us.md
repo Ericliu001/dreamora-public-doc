@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** 2025 April 06
+**Effective Date:** 2025-04-06
 
 We take your privacy seriously. This Privacy Policy outlines how your information is handled when using our app.
 
