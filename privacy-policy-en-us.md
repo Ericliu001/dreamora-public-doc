@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 2025 April 06
 
 We take your privacy seriously. This Privacy Policy outlines how your information is handled when using our app.
 
@@ -28,4 +28,4 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 ## 6. Contact
 
-If you have any questions or concerns about this Privacy Policy, feel free to contact us at: **[Your Contact Email]**
+If you have any questions or concerns about this Privacy Policy, feel free to contact us at: **eric.liu.developer@gmail.com**
